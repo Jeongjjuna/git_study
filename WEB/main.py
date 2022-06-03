@@ -1,1 +1,2 @@
-지훈 work space
+def add(a, b):
+    return a+b
