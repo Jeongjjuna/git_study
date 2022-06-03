@@ -1,1 +1,6 @@
-승현 work space
+def sub(a, b):
+    return a-b
+
+
+def KKK(a, b):
+    return a/b
