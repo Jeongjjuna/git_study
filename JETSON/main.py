@@ -7,3 +7,5 @@ def KKK(a, b):
 
 
 print("기능추가2")
+
+print("기능추가3")
