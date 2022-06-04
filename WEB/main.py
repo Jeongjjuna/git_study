@@ -4,3 +4,6 @@ def add(a, b):
 
 def 곱하기(a, b):
     return a*b
+
+
+print("기능계속추가다")
