@@ -4,3 +4,6 @@ def sub(a, b):
 
 def KKK(a, b):
     return a/b
+
+
+print("기능추가2")
